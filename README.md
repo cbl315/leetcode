@@ -4,6 +4,7 @@ Leetcode practice source code.
 ## easy
 
 - [maximum-subarray](./problems/maximum-subarray)
+- [two-sum](./problems/two-sum)
 
 ## medium
 
@@ -12,6 +13,7 @@ Leetcode practice source code.
 ## array
 
 - [maximum-subarray](./problems/maximum-subarray)
+- [two-sum](./problems/two-sum)
 
 ## Divide and Conquer
 
@@ -20,3 +22,7 @@ Leetcode practice source code.
 ## Dynamic Programming
 
 - [maximum-subarray](./problems/maximum-subarray)
+
+## Hash Table
+
+- [two-sum](./problems/two-sum)
